@@ -1,2 +1,7 @@
 1. Decide which business to order from based on the lowest cost.
 2. Decide which type of pizza to order.
+IF:
+The delivery is incorrect
+
+THEN:
+refund the order.
